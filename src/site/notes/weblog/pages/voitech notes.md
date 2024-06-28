@@ -8,7 +8,7 @@
 
 Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy i seriale.
 
-> Więcej o mnie przeczytasz [[weblog/pages/about\|tutaj]], a o tej stronie [[weblog/pages/colophon\|tutaj]]!
+> **Więcej o mnie przeczytasz [[weblog/pages/about\|tutaj]], a o tej stronie [[weblog/pages/colophon\|tutaj]]!**
 
 ---
 
