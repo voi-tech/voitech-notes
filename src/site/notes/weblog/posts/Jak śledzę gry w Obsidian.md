@@ -49,7 +49,7 @@ Gry są następnie podsumowane w swojej kategorii, czyli w notatce *Games*. Doda
 | ----------------------------------------- | ---------- | ---------- | --------- | -------- |
 | [[Games/Diablo IV\|Diablo IV]]         | 6.06.2024  | 625 godzin | 349,00 zł | 0.56     |
 | [[Games/Path of Exile\|Path of Exile]] | 21.04.2024 | 300 godzin | 210,00 zł | 0.7      |
-| [[Games/Elden Ring\|Elden Ring]]       | 20.05.2024 | 5 godzin   | 197,34 zł | 39.47    |
+| [[Games/Elden Ring\|Elden Ring]]       | 26.06.2024 | 10 godzin  | 197,34 zł | 19.73    |
 
 { .block-language-dataview}
 

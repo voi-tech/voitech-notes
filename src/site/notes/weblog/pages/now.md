@@ -5,8 +5,8 @@
 
 | Image                                                                           | Title                                     | Played     | Playtime   | Rating |
 | ------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ---------- | ------ |
+| ![](https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg) | [[Games/Elden Ring\|Elden Ring]]       | 26.06.2024 | 10 godzin  | ★★★★★  |
 | ![](https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg) | [[Games/Diablo IV\|Diablo IV]]         | 6.06.2024  | 625 godzin | ★★★☆☆  |
-| ![](https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg) | [[Games/Elden Ring\|Elden Ring]]       | 20.05.2024 | 5 godzin   | ★★★★★  |
 | ![](https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg) | [[Games/Path of Exile\|Path of Exile]] | 21.04.2024 | 300 godzin | ★★★☆☆  |
 
 { .block-language-dataview}
@@ -19,11 +19,9 @@
 
 { .block-language-dataview}
 
-| Image                                                                                                                                   | Title                                                  | Watched    | Duration  | Rating |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------- | --------- | ------ |
-| ![](https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_SX300.jpg) | [[Series/Severance (2022–)\|Severance (2022–)]]     | 20.06.2024 | 1 godzina | ★★★★★  |
-| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[Series/The Boys (2019–)\|The Boys (2019–)]]       | 13.06.2024 | 45 minut  | ★★★★☆  |
-| ![](https://m.media-amazon.com/images/M/MV5BOGFiZjU5NGEtNTAwNS00ZjI2LTg0YTktNjg0ODFlM2E0NGVhXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg) | [[Series/Yellowstone (2018–)\|Yellowstone (2018–)]] | 12.06.2024 | 1 godzina | ★★★☆☆  |
+| Image                                                                                                                                   | Title                                                      | Watched    | Duration | Rating |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | -------- | ------ |
+| ![](https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_SX300.jpg) | [[Series/Westworld (2016–2022)\|Westworld (2016–2022)]] | 28.06.2024 | 62       | ★★★★☆  |
+| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[Series/The Boys (2019–)\|The Boys (2019–)]]           | 13.06.2024 | 45 minut | ★★★★☆  |
 
 { .block-language-dataview}
-

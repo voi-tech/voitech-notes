@@ -12,8 +12,12 @@ Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy
 
 ---
 
-> [!cyan] **Ostatnie wpisy**
-> - [[weblog/posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]
-> - [[weblog/posts/iOS 18 developer beta\|iOS 18 developer beta]]
-> - [[weblog/posts/WWDC24 Keynote\|WWDC24 Keynote]]
-> - [[weblog/posts/Kupuj mądrze\|Kupuj mądrze]]
+## Ostatnie wpisy
+
+- [[weblog/posts/Custom callouts\|Custom callouts]]
+- [[weblog/posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]
+- [[weblog/posts/iOS 18 developer beta\|iOS 18 developer beta]]
+- [[weblog/posts/WWDC24 Keynote\|WWDC24 Keynote]]
+- [[weblog/posts/Kupuj mądrze\|Kupuj mądrze]]
+
+{ .block-language-dataview}
