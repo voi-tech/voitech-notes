@@ -3,7 +3,7 @@
 ---
 
 
-> [!quote] *I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.*
+> [!quote|noicon] *I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.*
 > — Morpheus, The Matrix (1999)
 
 Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy i seriale.
