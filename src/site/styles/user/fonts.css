@@ -3,6 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Recursive&display=swap');
 
 body {
---font-default: 'Recursive', 'Atkinson Hyperlegible', sans-serif;
---font-monospace-default: 'Recursive', 'JetBrains Mono', monospace;
+--font-default: 'Recursive Sans Casual Static', 'Atkinson Hyperlegible', sans-serif;
+--font-monospace-default: 'Recursive Mono Casual Static', 'JetBrains Mono', monospace;
 }
