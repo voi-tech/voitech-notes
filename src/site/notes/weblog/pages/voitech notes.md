@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/voitech notes.md","permalink":"/pages/voitech-notes/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"voitech notes.md","permalink":"/voitech-notes/","tags":["gardenEntry"]}
 ---
 
 

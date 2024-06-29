@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/blogroll.md","dg-permalink":"blogroll","permalink":"/blogroll/"}
+{"dg-publish":true,"dg-path":"blogroll.md","dg-permalink":"blogroll","permalink":"/blogroll/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/ideas.md","dg-permalink":"ideas","permalink":"/ideas/"}
+{"dg-publish":true,"dg-path":"ideas.md","dg-permalink":"ideas","permalink":"/ideas/"}
 ---
 
 

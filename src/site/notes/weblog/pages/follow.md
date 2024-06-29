@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/follow.md","dg-permalink":"follow","permalink":"/follow/"}
+{"dg-publish":true,"dg-path":"follow.md","dg-permalink":"follow","permalink":"/follow/"}
 ---
 
 

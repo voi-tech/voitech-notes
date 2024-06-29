@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/macOS Sequoia developer beta.md","dg-permalink":"macos-sequoia-developer-beta","permalink":"/macos-sequoia-developer-beta/","tags":["Apple"]}
+{"dg-publish":true,"dg-path":"macOS Sequoia developer beta.md","dg-permalink":"macos-sequoia-developer-beta","permalink":"/macos-sequoia-developer-beta/","tags":["Apple"]}
 ---
 
 

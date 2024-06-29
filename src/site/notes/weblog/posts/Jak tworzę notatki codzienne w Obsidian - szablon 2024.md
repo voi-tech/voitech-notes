@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/Jak tworzę notatki codzienne w Obsidian - szablon 2024.md","dg-permalink":"obsidian-daily-notes-2024","permalink":"/obsidian-daily-notes-2024/","tags":["Obsidian"]}
+{"dg-publish":true,"dg-path":"Jak tworzę notatki codzienne w Obsidian - szablon 2024.md","dg-permalink":"obsidian-daily-notes-2024","permalink":"/obsidian-daily-notes-2024/","tags":["Obsidian"]}
 ---
 
 

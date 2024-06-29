@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/App Defaults 2024.md","dg-permalink":"defaults","permalink":"/defaults/","tags":["Apps"]}
+{"dg-publish":true,"dg-path":"App Defaults 2024.md","dg-permalink":"defaults","permalink":"/defaults/","tags":["Apps"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/contact.md","dg-permalink":"contact","permalink":"/contact/"}
+{"dg-publish":true,"dg-path":"contact.md","dg-permalink":"contact","permalink":"/contact/"}
 ---
 
 

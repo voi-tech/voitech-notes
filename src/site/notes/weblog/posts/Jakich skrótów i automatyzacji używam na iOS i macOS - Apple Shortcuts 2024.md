@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/Jakich skrótów i automatyzacji używam na iOS i macOS - Apple Shortcuts 2024.md","dg-permalink":"apple-shortcuts-2024","permalink":"/apple-shortcuts-2024/","tags":["WeblogPoMo2024","AppleShortcuts"]}
+{"dg-publish":true,"dg-path":"Jakich skrótów i automatyzacji używam na iOS i macOS - Apple Shortcuts 2024.md","dg-permalink":"apple-shortcuts-2024","permalink":"/apple-shortcuts-2024/","tags":["WeblogPoMo2024","AppleShortcuts"]}
 ---
 
 

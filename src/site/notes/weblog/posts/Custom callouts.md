@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/Custom callouts.md","dg-permalink":"custom-callouts","permalink":"/custom-callouts/"}
+{"dg-publish":true,"dg-path":"Custom callouts.md","dg-permalink":"custom-callouts","permalink":"/custom-callouts/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/Jak śledzę gry w Obsidian.md","dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
+{"dg-publish":true,"dg-path":"Jak śledzę gry w Obsidian.md","dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/privacy.md","dg-permalink":"privacy","permalink":"/privacy/"}
+{"dg-publish":true,"dg-path":"privacy.md","dg-permalink":"privacy","permalink":"/privacy/"}
 ---
 
 

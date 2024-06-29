@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/uses.md","dg-permalink":"uses","permalink":"/uses/"}
+{"dg-publish":true,"dg-path":"uses.md","dg-permalink":"uses","permalink":"/uses/"}
 ---
 
 

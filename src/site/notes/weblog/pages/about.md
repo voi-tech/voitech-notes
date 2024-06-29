@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/about.md","dg-permalink":"about","permalink":"/about/"}
+{"dg-publish":true,"dg-path":"about.md","dg-permalink":"about","permalink":"/about/"}
 ---
 
 

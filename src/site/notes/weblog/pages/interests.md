@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"pages/interests.md","dg-permalink":"interests","permalink":"/interests/"}
+{"dg-publish":true,"dg-path":"interests.md","dg-permalink":"interests","permalink":"/interests/"}
 ---
 
 

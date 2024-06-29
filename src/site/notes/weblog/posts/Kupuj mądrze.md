@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/Kupuj mądrze.md","dg-permalink":"items-obsidian-2024","permalink":"/items-obsidian-2024/","tags":["WeblogPoMo2024"]}
+{"dg-publish":true,"dg-path":"Kupuj mądrze.md","dg-permalink":"items-obsidian-2024","permalink":"/items-obsidian-2024/","tags":["WeblogPoMo2024"]}
 ---
 
 

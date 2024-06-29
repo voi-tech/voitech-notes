@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"posts/WeblogPoMo 2024 - majowe wyzwanie blogowe.md","dg-permalink":"weblog-pomo-2024","permalink":"/weblog-pomo-2024/","tags":["WeblogPoMo2024"]}
+{"dg-publish":true,"dg-path":"WeblogPoMo 2024 - majowe wyzwanie blogowe.md","dg-permalink":"weblog-pomo-2024","permalink":"/weblog-pomo-2024/","tags":["WeblogPoMo2024"]}
 ---
 
 
