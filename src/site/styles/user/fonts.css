@@ -1,6 +1,7 @@
 @import url(https://fonts.bunny.net/css?family=recursive:300,400,500,600,700,800,900|atkinson-hyperlegible:400,400i,700,700i|jetbrains-mono:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i);
 
 body {
---font-default: 'Recursive', 'Atkinson Hyperlegible', sans-serif;
---font-monospace-default: 'Recursive', 'JetBrains Mono', monospace;
+  font-family: 'Recursive', 'Atkinson Hyperlegible', 'JetBrains Mono';
+  --font-default: 'Recursive', 'Atkinson Hyperlegible', sans-serif;
+  --font-monospace-default: 'Recursive', 'JetBrains Mono', monospace;
 }
