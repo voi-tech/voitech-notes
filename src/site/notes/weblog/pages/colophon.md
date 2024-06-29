@@ -7,7 +7,7 @@
 
 Ta strona została stworzona za pomocą *Obsidian* i wtyczki *Digital Garden*. Strona jest cały czas w trakcie budowy, to znaczy, że treści i wygląd mogą się zmieniać.
 
-Motyw kolorystyczny to [Flexoki](https://stephango.com/flexoki), czcionka tekstu to [Atkinson Hyperlegible](https://fonts.bunny.net/family/atkinson-hyperlegible), a czcionka kodu to [JetBrains Mono](https://fonts.bunny.net/family/jetbrains-mono).
+Motyw kolorystyczny to [Minimal](https://github.com/kepano/obsidian-minimal), czcionka tekstu to [Atkinson Hyperlegible](https://fonts.bunny.net/family/atkinson-hyperlegible), a czcionka kodu to [JetBrains Mono](https://fonts.bunny.net/family/jetbrains-mono).
 
 ## Mapa strony
 
