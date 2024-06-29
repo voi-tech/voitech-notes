@@ -7,6 +7,7 @@ Archiwum notatek w kolejności od ostatnio opublikowanych.
 
 | Title                                                                                                                                                                        | Date       | Tags                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
+| [[weblog/posts/W złotej klatce Apple\|W złotej klatce Apple]]                                                                                                             | 29.06.2024 | <ul><li>Apple</li><li>EU</li></ul>                          |
 | [[weblog/posts/Co nowego w Obsidian 1.6\|Co nowego w Obsidian 1.6]]                                                                                                       | 25.06.2024 | \-                                                          |
 | [[weblog/posts/Custom callouts\|Custom callouts]]                                                                                                                         | 15.06.2024 | \-                                                          |
 | [[weblog/posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]                                                                                               | 12.06.2024 | <ul><li>Apple</li></ul>                                     |
