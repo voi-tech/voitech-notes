@@ -3,16 +3,9 @@
 ---
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
- 
-
 | Title                                                                                                                                                                 | Date       | Tags                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
+| [[posts/Przetestowałem Obsidian Publish, żebyście wy nie musieli\|Przetestowałem Obsidian Publish, żebyście wy nie musieli]]                                       | 30.06.2024 | <ul><li>Obsidian</li></ul>                                  |
 | [[posts/W złotej klatce Apple\|W złotej klatce Apple]]                                                                                                             | 29.06.2024 | <ul><li>Apple</li><li>EU</li></ul>                          |
 | [[posts/Custom callouts\|Custom callouts]]                                                                                                                         | 15.06.2024 | \-                                                          |
 | [[posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]                                                                                               | 12.06.2024 | <ul><li>Apple</li></ul>                                     |
@@ -33,6 +26,4 @@
 | [[posts/App Defaults 2024\|App Defaults 2024]]                                                                                                                     | 9.03.2024  | <ul><li>Apps</li></ul>                                      |
 | [[posts/Jak korzystam z komputera - MacOS setup 2024\|Jak korzystam z komputera - MacOS setup 2024]]                                                               | 25.02.2024 | <ul><li>MacOS</li></ul>                                     |
 
-
-</div></div>
-
+{ .block-language-dataview}
