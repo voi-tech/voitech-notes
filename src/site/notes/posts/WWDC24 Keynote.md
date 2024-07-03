@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"wwdc24-keynote","permalink":"/wwdc24-keynote/","tags":["Apple"]}
+{"dg-publish":true,"dg-permalink":"wwdc24-keynote","permalink":"/wwdc24-keynote/","tags":["Apple"],"updated":"2024-06-10"}
 ---
 
 

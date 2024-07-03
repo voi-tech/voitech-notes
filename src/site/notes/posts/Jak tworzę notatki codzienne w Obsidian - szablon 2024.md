@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-daily-notes-2024","permalink":"/obsidian-daily-notes-2024/","tags":["Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-daily-notes-2024","permalink":"/obsidian-daily-notes-2024/","tags":["Obsidian"],"updated":"2024-04-22"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"],"updated":"2024-06-30"}
 ---
 
 

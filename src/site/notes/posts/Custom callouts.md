@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"custom-callouts","permalink":"/custom-callouts/"}
+{"dg-publish":true,"dg-permalink":"custom-callouts","permalink":"/custom-callouts/","updated":"2024-06-15"}
 ---
 
 

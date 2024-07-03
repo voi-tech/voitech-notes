@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"macos-sequoia-developer-beta","permalink":"/macos-sequoia-developer-beta/","tags":["Apple"]}
+{"dg-publish":true,"dg-permalink":"macos-sequoia-developer-beta","permalink":"/macos-sequoia-developer-beta/","tags":["Apple"],"updated":"2024-06-12"}
 ---
 
 
