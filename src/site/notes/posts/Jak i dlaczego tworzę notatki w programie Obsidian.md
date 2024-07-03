@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jak i dlaczego tworzę notatki w programie Obsidian.md","dg-permalink":"dlaczego-obsidian","permalink":"/dlaczego-obsidian/","tags":["Obsidian"]}
+{"dg-publish":true,"dg-permalink":"dlaczego-obsidian","permalink":"/dlaczego-obsidian/","tags":["Obsidian"]}
 ---
 
 

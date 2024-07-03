@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jak dodaję informacje pogodowe do notatki w Obsidian.md","dg-permalink":"obsidian-weather-2024","permalink":"/obsidian-weather-2024/","tags":["WeblogPoMo2024","Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-weather-2024","permalink":"/obsidian-weather-2024/","tags":["WeblogPoMo2024","Obsidian"]}
 ---
 
 

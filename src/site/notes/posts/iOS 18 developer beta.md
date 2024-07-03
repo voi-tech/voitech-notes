@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"iOS 18 developer beta.md","dg-permalink":"ios18-developer-beta","permalink":"/ios18-developer-beta/","tags":["Apple"]}
+{"dg-publish":true,"dg-permalink":"ios18-developer-beta","permalink":"/ios18-developer-beta/","tags":["Apple"]}
 ---
 
 

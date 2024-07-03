@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"support.md","dg-permalink":"support","permalink":"/support/"}
+{"dg-publish":true,"dg-permalink":"support","permalink":"/support/"}
 ---
 
 

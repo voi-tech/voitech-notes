@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"W złotej klatce Apple.md","permalink":"/w-zlotej-klatce-apple/","tags":["Apple","EU"]}
+{"dg-publish":true,"permalink":"/posts/w-zlotej-klatce-apple/","tags":["Apple","EU"]}
 ---
 
 

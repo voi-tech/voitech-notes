@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Przetestowałem Obsidian Publish, żebyście wy nie musieli.md","dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"]}
 ---
 
 

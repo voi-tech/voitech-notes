@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jakie strony warto mieć na swojej stronie internetowej.md","dg-permalink":"website-setup-2024","permalink":"/website-setup-2024/","tags":["WeblogPoMo2024"]}
+{"dg-publish":true,"dg-permalink":"website-setup-2024","permalink":"/website-setup-2024/","tags":["WeblogPoMo2024"]}
 ---
 
 

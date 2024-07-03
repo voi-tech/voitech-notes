@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jak korzystam z komputera - MacOS setup 2024.md","dg-permalink":"macos-setup-2024","permalink":"/macos-setup-2024/","tags":["MacOS"]}
+{"dg-publish":true,"dg-permalink":"macos-setup-2024","permalink":"/macos-setup-2024/","tags":["MacOS"]}
 ---
 
 

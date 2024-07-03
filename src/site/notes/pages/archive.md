@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"archive.md","dg-permalink":"archive","permalink":"/archive/"}
+{"dg-publish":true,"dg-permalink":"archive","permalink":"/archive/"}
 ---
 
 

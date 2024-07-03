@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jak śledzę filmy i seriale w Obsidian.md","dg-permalink":"obsidian-media-tracking-2024","permalink":"/obsidian-media-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-media-tracking-2024","permalink":"/obsidian-media-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
 ---
 
 

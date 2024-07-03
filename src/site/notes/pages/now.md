@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"now.md","permalink":"/now/","contentClasses":"cards cards-cols-3"}
+{"dg-publish":true,"permalink":"/pages/now/","contentClasses":"cards cards-cols-3"}
 ---
 
 

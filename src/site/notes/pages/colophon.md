@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"colophon.md","dg-permalink":"colophon","permalink":"/colophon/"}
+{"dg-publish":true,"dg-permalink":"colophon","permalink":"/colophon/"}
 ---
 
 

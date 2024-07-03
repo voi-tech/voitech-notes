@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Jakiego motywu kolorystycznego używam w Obsidian.md","dg-permalink":"obsidian-theme-2024","permalink":"/obsidian-theme-2024/","tags":["WeblogPoMo2024"]}
+{"dg-publish":true,"dg-permalink":"obsidian-theme-2024","permalink":"/obsidian-theme-2024/","tags":["WeblogPoMo2024"]}
 ---
 
 
