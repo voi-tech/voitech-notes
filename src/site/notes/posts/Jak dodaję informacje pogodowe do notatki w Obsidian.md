@@ -42,4 +42,3 @@ Powyższa tabela ograniczona jest do zaledwie 5 pozycji. W mojej notatce stosuj�
 **Daytime** to długość dnia. Mimo że czas wschodu i zachodu słońca dodane są jako ciąg znaków (string), a nie poprawna data (bo wtedy wyświetla się cała data), to udało mi się też poprawnie wyświetlić długość dnia, licząc czas od wschodu do zachodu słońca.
 
 Jest to możliwe dzięki temu, że dataview może narzucić format (luxon) na podane dane, niezależnie od ich rodzaju. Oczywiście to nie zadziała, jeśli dane nie będą dopasowane. Przykład: gdybym w sunrise i sunset podał wartość tekstową, dataview zwróci błąd.
-
