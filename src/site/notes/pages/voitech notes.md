@@ -14,10 +14,10 @@ Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy
 
 ## Ostatnie wpisy
 
+- [[posts/Checkbox icons\|Checkbox icons]]
 - [[posts/Przetestowałem Obsidian Publish, żebyście wy nie musieli\|Przetestowałem Obsidian Publish, żebyście wy nie musieli]]
 - [[posts/W złotej klatce Apple\|W złotej klatce Apple]]
 - [[posts/Custom callouts\|Custom callouts]]
 - [[posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]
-- [[posts/iOS 18 developer beta\|iOS 18 developer beta]]
 
 { .block-language-dataview}
