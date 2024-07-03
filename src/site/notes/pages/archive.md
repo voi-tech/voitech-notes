@@ -5,7 +5,6 @@
 
 | Title                                                                                                                                                                 | Date       | Tags                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
-| [[posts/Checkbox icons\|Checkbox icons]]                                                                                                                           | 3.07.2024  | <ul><li>WIP</li></ul>                                       |
 | [[posts/Przetestowałem Obsidian Publish, żebyście wy nie musieli\|Przetestowałem Obsidian Publish, żebyście wy nie musieli]]                                       | 30.06.2024 | <ul><li>Obsidian</li></ul>                                  |
 | [[posts/W złotej klatce Apple\|W złotej klatce Apple]]                                                                                                             | 29.06.2024 | <ul><li>Apple</li><li>EU</li></ul>                          |
 | [[posts/Custom callouts\|Custom callouts]]                                                                                                                         | 15.06.2024 | \-                                                          |
