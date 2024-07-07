@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"],"updated":"2024-05-07"}
+{"dg-publish":true,"dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
 ---
 
 
@@ -49,7 +49,7 @@ Gry są następnie podsumowane w swojej kategorii, czyli w notatce *Games*. Doda
 | ----------------------------------------- | ---------- | ---------- | --------- | -------- |
 | [[games/Diablo IV\|Diablo IV]]         | 6.06.2024  | 625 godzin | 349,00 zł | 0.56     |
 | [[games/Path of Exile\|Path of Exile]] | 21.04.2024 | 300 godzin | 210,00 zł | 0.7      |
-| [[games/Elden Ring\|Elden Ring]]       | 2.07.2024  | 20 godzin  | 197,34 zł | 9.87     |
+| [[games/Elden Ring\|Elden Ring]]       | 7.07.2024  | 20 godzin  | 197,34 zł | 9.87     |
 
 { .block-language-dataview}
 

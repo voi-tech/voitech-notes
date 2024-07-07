@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"defaults","permalink":"/defaults/","tags":["Apps"],"updated":"2024-03-09"}
+{"dg-publish":true,"dg-permalink":"defaults","permalink":"/defaults/","tags":["Apps"]}
 ---
 
 

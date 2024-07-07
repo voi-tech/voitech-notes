@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"weblog-pomo-2024","permalink":"/weblog-pomo-2024/","tags":["WeblogPoMo2024"],"updated":"2024-05-01"}
+{"dg-publish":true,"dg-permalink":"weblog-pomo-2024","permalink":"/weblog-pomo-2024/","tags":["WeblogPoMo2024"]}
 ---
 
 

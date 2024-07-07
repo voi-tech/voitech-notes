@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dlaczego-obsidian","permalink":"/dlaczego-obsidian/","tags":["Obsidian"],"updated":"2024-03-10"}
+{"dg-publish":true,"dg-permalink":"dlaczego-obsidian","permalink":"/dlaczego-obsidian/","tags":["Obsidian"]}
 ---
 
 

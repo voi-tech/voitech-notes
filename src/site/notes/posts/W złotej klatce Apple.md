@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/posts/w-zlotej-klatce-apple/","tags":["Apple","EU"],"updated":"2024-06-29"}
+{"dg-publish":true,"permalink":"/posts/w-zlotej-klatce-apple/","tags":["Apple","EU"]}
 ---
 
 

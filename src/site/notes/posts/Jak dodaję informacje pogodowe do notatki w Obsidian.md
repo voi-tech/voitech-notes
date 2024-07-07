@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-weather-2024","permalink":"/obsidian-weather-2024/","tags":["WeblogPoMo2024","Obsidian"],"updated":"2024-05-06"}
+{"dg-publish":true,"dg-permalink":"obsidian-weather-2024","permalink":"/obsidian-weather-2024/","tags":["WeblogPoMo2024","Obsidian"]}
 ---
 
 

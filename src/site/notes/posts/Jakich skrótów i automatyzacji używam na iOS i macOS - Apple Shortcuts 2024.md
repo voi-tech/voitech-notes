@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"apple-shortcuts-2024","permalink":"/apple-shortcuts-2024/","tags":["WeblogPoMo2024","AppleShortcuts"],"updated":"2024-05-02"}
+{"dg-publish":true,"dg-permalink":"apple-shortcuts-2024","permalink":"/apple-shortcuts-2024/","tags":["WeblogPoMo2024","AppleShortcuts"]}
 ---
 
 

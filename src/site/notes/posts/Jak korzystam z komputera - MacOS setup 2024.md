@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"macos-setup-2024","permalink":"/macos-setup-2024/","tags":["MacOS"],"updated":"2024-02-25"}
+{"dg-publish":true,"dg-permalink":"macos-setup-2024","permalink":"/macos-setup-2024/","tags":["MacOS"]}
 ---
 
 

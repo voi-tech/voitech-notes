@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ios18-developer-beta","permalink":"/ios18-developer-beta/","tags":["Apple"],"updated":"2024-06-11"}
+{"dg-publish":true,"dg-permalink":"ios18-developer-beta","permalink":"/ios18-developer-beta/","tags":["Apple"]}
 ---
 
 

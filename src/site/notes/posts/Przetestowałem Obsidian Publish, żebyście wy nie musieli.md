@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"],"updated":"2024-06-30"}
+{"dg-publish":true,"dg-permalink":"obsidian-publish","permalink":"/obsidian-publish/","tags":["Obsidian"]}
 ---
 
 
@@ -29,18 +29,18 @@ Jest możliwość ustawienia własnej domeny, ale tylko za pomocą Cloudflare. S
 
 Poza prostotą Obsidian Publish zdaje się nie mieć za bardzo innych zalet jak na płatne wbudowane narzędzie. Osobiście bardzo się zawiodłem. Niestety nie mogę polecić tego narzędzia nikomu, nawet osobie, która nie jest za bardzo biegła w technologii. Są lepsze rozwiązania jak wspomniane wcześniej Digital Garden czy Quartz i do tego darmowe!
 
-> [!green] **Zalety**
+> [!success|noicon] **Zalety**
 > - wbudowana wtyczka
 > - prostota użytkowania
 > - szybkość publikacji notatek
 
-> [!orange] **Wady**
+> [!warning|noicon] **Wady**
 > - cena nie jest dostosowana do jakości usługi
 > - bardzo ograniczone możliwości konfiguracji
 > - bardziej zaawansowana konfiguracja wymaga wielu skomplikowanych czynności
 > - strona nie jest responsywna, zacina się i sprawia problemy
 
-> [!cyan] **Moja ocena**
+> [!tip|noicon] **Moja ocena**
 > - 3/10
 > - ★★☆☆☆
 > - nie polecam!
