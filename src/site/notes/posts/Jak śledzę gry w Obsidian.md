@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"]}
+{"dg-publish":true,"dg-permalink":"obsidian-game-tracking-2024","permalink":"/obsidian-game-tracking-2024/","tags":["WeblogPoMo2024","Obsidian"],"updated":"2024-05-07"}
 ---
 
 

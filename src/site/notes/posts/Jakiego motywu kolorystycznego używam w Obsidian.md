@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-theme-2024","permalink":"/obsidian-theme-2024/","tags":["WeblogPoMo2024"]}
+{"dg-publish":true,"dg-permalink":"obsidian-theme-2024","permalink":"/obsidian-theme-2024/","tags":["WeblogPoMo2024"],"updated":"2024-05-10"}
 ---
 
 
