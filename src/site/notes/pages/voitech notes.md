@@ -21,3 +21,4 @@ Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy
 - [[posts/iOS 18 developer beta\|iOS 18 developer beta]]
 
 { .block-language-dataview}
+<link rel="me" href="https://social.lol/@voitech">Mastodon</link>
