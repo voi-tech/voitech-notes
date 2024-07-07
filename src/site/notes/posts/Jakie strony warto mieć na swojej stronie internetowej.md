@@ -17,7 +17,7 @@ Jest to strona zawierająca archiwum moich wpisów na bloga lub notatek (w zale�
 
 Widziałem tą stronę u zaledwie kilku innych twórców, sam nie wiem czemu nie jest bardziej popularna.
 
-## [[pages/blogroll\|blogroll]]
+## [[blogroll\|blogroll]]
 
 Na tej stronie znajdują się linki do innych twórców, których treści konsumuję regularnie i polecam. Też nie jest zbyt popularna. U mnie w trakcie budowy...
 
@@ -35,7 +35,7 @@ Na tej stronie można się dowiedzieć jak się ze mną skontaktować. Też racz
 
 W odróżnieniu od poprzedniej strony, ta zawiera informacje gdzie jeszcze można mnie znaleźć (i ewentualnie obserwować). Jest częściej aktualizowana, bo kolejne źródła mogą się sukcesywnie pojawiać lub zmieniać z czasem.
 
-## [[pages/ideas\|ideas]]
+## [[ideas\|ideas]]
 
 Strona, na której dzielę się swoimi różnymi pomysłami i dziwnymi przemyśleniami. *W trakcie budowy*.
 
@@ -51,7 +51,7 @@ U mnie można się dowiedzieć jakie treści aktualnie konsumuję, czy nad czym 
 
 Widziałem, że niektórzy to automatyzują, ale ja wolę wpisywać tam informacje ręcznie, bo wtedy można przemyśleć, czy coś jest warte teraz mojego czasu.
 
-## [[pages/privacy\|privacy]]
+## [[privacy\|privacy]]
 
 Strona, na której powinny znaleźć się informacje o sposobach dbania o prywatność użytkowników. Najlepiej, aby było to napisane prostym i zrozumiałym językiem, nawet dla osób nietechnicznych.
 

@@ -3,7 +3,7 @@
 ---
 
 
-Możesz mnie wspierać na kilka sposobów:
+**Możesz mnie wspierać na kilka sposobów**
 
 - udostępniaj innym to, co ci się podoba
 - napisz, jaki problem pomogłem ci rozwiązać
