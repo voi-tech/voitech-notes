@@ -38,4 +38,4 @@ W Raycast skonfigurowałem dużo skrótów, dzięki czemu mogę np. wpisać *yt*
 
 Dodatkowo intensywnie korzystam z aplikacji Apple, takich jak **Notatki**, **Przypomnienia** i **Kalendarz**, a także **Pages** do edytowania dokumentów i **Numbers** do prowadzenia budżetu.
 
-Jeśli chcesz dowiedzieć się nieco więcej o aplikacjach, z których korzystam, sprawdź [[posts/App Defaults 2024\|App Defaults 2024]].
+Jeśli chcesz dowiedzieć się nieco więcej o aplikacjach, z których korzystam, sprawdź [[pages/defaults\|defaults]].

@@ -21,7 +21,6 @@
 | [[posts/WeblogPoMo 2024 - majowe wyzwanie blogowe\|WeblogPoMo 2024 - majowe wyzwanie blogowe]]                                                                     | 1.05.2024  | <ul><li>WeblogPoMo2024</li></ul>                            |
 | [[posts/Jak tworzę notatki codzienne w Obsidian - szablon 2024\|Jak tworzę notatki codzienne w Obsidian - szablon 2024]]                                           | 22.04.2024 | <ul><li>Obsidian</li></ul>                                  |
 | [[posts/Jak i dlaczego tworzę notatki w programie Obsidian\|Jak i dlaczego tworzę notatki w programie Obsidian]]                                                   | 10.03.2024 | <ul><li>Obsidian</li></ul>                                  |
-| [[posts/App Defaults 2024\|App Defaults 2024]]                                                                                                                     | 9.03.2024  | <ul><li>Apps</li></ul>                                      |
 | [[posts/Jak korzystam z komputera - MacOS setup 2024\|Jak korzystam z komputera - MacOS setup 2024]]                                                               | 25.02.2024 | <ul><li>MacOS</li></ul>                                     |
 
 { .block-language-dataview}
