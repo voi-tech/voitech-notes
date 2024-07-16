@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-theme-2024","permalink":"/obsidian-theme-2024/","tags":["WeblogPoMo2024"],"updated":"2024-05-10"}
+{"dg-publish":true,"permalink":"/posts/jakiego-motywu-kolorystycznego-uzywam-w-obsidian/","tags":["WeblogPoMo2024"],"updated":"2024-05-10"}
 ---
 
 

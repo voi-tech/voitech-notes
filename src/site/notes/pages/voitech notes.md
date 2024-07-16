@@ -3,7 +3,7 @@
 ---
 
 
-> [!quote|noicon] *I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.*
+> [!quote] I'm trying to free your mind, Neo. But I can only show you the door. You're the one that has to walk through it.
 > — Morpheus, The Matrix (1999)
 
 Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy i seriale.
@@ -16,9 +16,9 @@ Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy
 
 - [[posts/Przetestowałem Obsidian Publish, żebyście wy nie musieli\|Przetestowałem Obsidian Publish, żebyście wy nie musieli]]
 - [[posts/W złotej klatce Apple\|W złotej klatce Apple]]
-- [[posts/Custom callouts\|Custom callouts]]
-- [[posts/macOS Sequoia developer beta\|macOS Sequoia developer beta]]
-- [[posts/iOS 18 developer beta\|iOS 18 developer beta]]
+- [[posts/macOS Sequoia\|macOS Sequoia]]
+- [[posts/iOS 18\|iOS 18]]
+- [[posts/WWDC24 Keynote\|WWDC24 Keynote]]
 
 { .block-language-dataview}
 <link rel="me" href="https://social.lol/@voitech"/>

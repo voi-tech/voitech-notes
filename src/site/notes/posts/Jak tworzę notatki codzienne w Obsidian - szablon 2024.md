@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsidian-daily-notes-2024","permalink":"/obsidian-daily-notes-2024/","tags":["Obsidian"],"updated":"2024-04-22"}
+{"dg-publish":true,"permalink":"/posts/jak-tworze-notatki-codzienne-w-obsidian-szablon-2024/","tags":["Obsidian"],"updated":"2024-04-22"}
 ---
 
 
@@ -67,4 +67,3 @@ sort file.mtime desc
 Powyższy skrypt tworzy listę notatek (`list`), z wykluczeniem kategorii o nazwie *Journal* (`!contains(category, [[Journal]])`), gdzie notatka zawiera link do tej notatki (`contains(file.outlinks, this.file.link`) lub datę tej notatki w metadanych (`contains(string(file.frontmatter), string(dateformat(this.file.day, "yyyy-MM-dd")))`). Notatki są sortowane w kolejności od ostatnio edytowanych (`sort file.mtime desc`).
 
 Może się to wydawać skomplikowane, ale tak naprawdę wystarczy znać trochę słówek po angielsku i da się wszystko rozszyfrować. Bardzo polecam pobawić się takimi skryptami z wtyczką *Dataview*!
-

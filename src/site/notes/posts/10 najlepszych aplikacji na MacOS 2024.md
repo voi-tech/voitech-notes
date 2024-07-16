@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"macos-apps-2024","permalink":"/macos-apps-2024/","tags":["WeblogPoMo2024","MacOS","Apps"],"updated":"2024-05-09"}
+{"dg-publish":true,"permalink":"/posts/10-najlepszych-aplikacji-na-mac-os-2024/","tags":["WeblogPoMo2024","MacOS","Apps"],"updated":"2024-05-09"}
 ---
 
 

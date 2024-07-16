@@ -5,11 +5,11 @@
 
 Moje główne zainteresowania w kolejności losowej.
 
--  Apple
-- 🔐 Cyberbezpieczeństwo
-- ⌨️ Programowanie
-- 🧠 Zarządzanie wiedzą osobistą
-- 💻 Linux - *btw I use ~~Arch~~ Linux Mint*
+-  Apple - *iOS*, *macOS*, *Swift*, *Shortcuts*
+- 🔐 Cyberbezpieczeństwo - *twoje dane w internecie*
+- ⌨️ Programowanie - *HTML*, *CSS*, *JS*, *Lua*, *Swift*
+- 🧠 Zarządzanie wiedzą osobistą - *Obsidian*
+- 💻 Linux - *btw I use ~~Arch~~ Fedora*
 - 🎮 Gry - *Path of Exile*, *Diablo IV*, *Cyberpunk 2077*
 - 🍿 Filmy i seriale - *Matrix*, *Lord of the Rings*, *Mr Robot*
 - 🧉 Yerba Mate - *Palo Santo*, *Kurupi Menta y Boldo*

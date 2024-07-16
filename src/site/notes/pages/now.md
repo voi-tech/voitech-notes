@@ -21,7 +21,7 @@
 
 | Image                                                                                                                                   | Title                                                      | Watched    | Duration | Rating |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | -------- | ------ |
-| ![](https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_SX300.jpg) | [[series/Westworld (2016–2022)\|Westworld (2016–2022)]] | 7.07.2024  | 62       | ★★★★☆  |
-| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[series/The Boys (2019–)\|The Boys (2019–)]]           | 13.06.2024 | 45 minut | ★★★★☆  |
+| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[series/The Boys (2019–)\|The Boys (2019–)]]           | 15.07.2024 | 45 minut | ★★★★☆  |
+| ![](https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_SX300.jpg) | [[series/Westworld (2016–2022)\|Westworld (2016–2022)]] | 12.07.2024 | 62       | ★★★★☆  |
 
 { .block-language-dataview}

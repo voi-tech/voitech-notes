@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"items-obsidian-2024","permalink":"/items-obsidian-2024/","tags":["WeblogPoMo2024"],"updated":"2024-05-13"}
+{"dg-publish":true,"permalink":"/posts/kupuj-madrze/","tags":["WeblogPoMo2024"],"updated":"2024-05-13"}
 ---
 
 
-> [!tldr|noicon] Zainspirowany przez [kepano](https://stephango.com/buy-wisely) stworzyłem w Obsidianie swój system oceniania wartości posiadanych (lub nie) rzeczy. Paradoksalnie, im wynik jest niższy, tym większa wartość (i opłacalność) danej rzeczy.
+> Zainspirowany przez [kepano](https://stephango.com/buy-wisely) stworzyłem w Obsidianie swój system oceniania wartości posiadanych (lub nie) rzeczy. Paradoksalnie, im wynik jest niższy, tym większa wartość (i opłacalność) danej rzeczy.
 
 ## Wszystko zaczyna się od szablonu!
 

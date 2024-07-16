@@ -8,4 +8,3 @@ Poniżej są linki prowadzące do produktów, których używam. Niektóre z nich
 - [Setapp](https://go.setapp.com/invite/voitech)
 - [omg.lol](https://home.omg.lol/referred-by/voitech)
 - [Arc Browser](https://arc.net/gift/f70fd7c0)
-- 

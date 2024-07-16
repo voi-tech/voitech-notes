@@ -3,7 +3,7 @@
 ---
 
 
-Inspired by [bobiko](https://pol.social/@bobiko/111670113063973359) on Mastodon, I decided to listen to the 97th episode of the [Hemispheric View](https://defaults.rknight.me/) podcast titled *Duel of the Defaults!* Encouraged by hundreds of other posts on the subject, I too made the list of the default apps I use.
+> Inspired by [bobiko](https://pol.social/@bobiko/111670113063973359) on Mastodon, I decided to listen to the 97th episode of the [Hemispheric View](https://defaults.rknight.me/) podcast titled *Duel of the Defaults!* Encouraged by hundreds of other posts on the subject, I too made the list of the default apps I use.
 
 I recommend you also see the other entries at this link: https://defaults.rknight.me/
 
@@ -17,10 +17,10 @@ I recommend you also see the other entries at this link: https://defaults.rknigh
 - 📁 Cloud File Storage: **iCloud**
 - 📖 RSS: **[NetNewsWire](https://netnewswire.com/)**
 - 🙎🏻‍♂️ Contacts: **Contacts.app**, **[Obsidian](https://obsidian.md/)**
-- 🌐 Browser: **Safari**, **[Arc](https://arc.net/gift/f70fd7c0)**
-- 💬 Chat: **iMessage**, **[Signal](https://www.signal.org/)**
-- 🔖 Bookmarks: **Safari**, **[Obsidian](https://obsidian.md/)**
-- 📑 Read It Later: **Notes.app**, **Reminders.app**, **[Obsidian](https://obsidian.md/)**
+- 🌐 Browser: **Safari.app**, **[Arc](https://arc.net/gift/f70fd7c0)**
+- 💬 Chat: **Messages.app**, **[Signal](https://www.signal.org/)**
+- 🔖 Bookmarks: **Safari.app**, **[Obsidian](https://obsidian.md/)**
+- 📑 Read It Later: **Notes.app**, **Reminders.app**, **[Obsidian](https://obsidian.md/)** + **[ReadItLater](obsidian://show-plugin?id=obsidian-read-it-later) plugin**
 - 📜 Word Processing: **Pages.app**, **[Obsidian](https://obsidian.md/)**
 - 📈 Spreadsheets: **Numbers.app**
 - 📊 Presentations: **Keynote.app**
@@ -33,8 +33,8 @@ I recommend you also see the other entries at this link: https://defaults.rknigh
 - 🐘 Social Media: **Mastodon**, **Mona**, **[social.lol](https://home.omg.lol/referred-by/voitech)**
 - 🚀 Launcher: **Spotlight**, **[Raycast](https://www.raycast.com/)**
 - 💻 Screenshot Tool: **[Shottr](https://shottr.cc/)**
-- ✍🏻 Blogging: **[Obsidian](https://obsidian.md/)** + **[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin**, **[weblog.lol](https://home.omg.lol/referred-by/voitech)**
-- 🔗 Website: **[omg.lol](https://home.omg.lol/referred-by/voitech)**
+- ✍🏻 Blogging: **[Obsidian](https://obsidian.md/)** + **[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin**
+- 🔗 Website: **[Obsidian](https://obsidian.md/)** + **[Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin**
 - ⚙️ Automation: **Shortcuts.app**
 - 📋 Clipboard Manager: **[PastePal](https://indiegoodies.com/pastepal)**
 
