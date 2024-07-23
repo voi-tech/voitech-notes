@@ -3,25 +3,22 @@
 ---
 
 
-| Image                                                                           | Title                                     | Played     | Playtime   | Rating |
-| ------------------------------------------------------------------------------- | ----------------------------------------- | ---------- | ---------- | ------ |
-| ![](https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg) | [[games/Elden Ring\|Elden Ring]]       | 7.07.2024  | 20 godzin  | ★★★★★  |
-| ![](https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg) | [[games/Diablo IV\|Diablo IV]]         | 6.06.2024  | 625 godzin | ★★★☆☆  |
-| ![](https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg) | [[games/Path of Exile\|Path of Exile]] | 21.04.2024 | 300 godzin | ★★★☆☆  |
+| Image                                                                           | Title                                       | Played     | Playtime   | Rating |
+| ------------------------------------------------------------------------------- | ------------------------------------------- | ---------- | ---------- | ------ |
+| ![](https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg) | [[games/Cyberpunk 2077\|Cyberpunk 2077]] | 23.07.2024 | 150 godzin | ★★★★★  |
+| ![](https://media.rawg.io/media/games/174/1743b3dd185bda4a7be349347d4064df.jpg) | [[games/No Man's Sky\|No Man's Sky]]     | 20.07.2024 | 20 godzin  | ★★★★★  |
+| ![](https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg) | [[games/Elden Ring\|Elden Ring]]         | 7.07.2024  | 20 godzin  | ★★★★★  |
 
 { .block-language-dataview}
 
-| Image                                                                                                                                   | Title                                                                    | Watched    | Duration              | Rating |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- | --------------------- | ------ |
-| ![](https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg)                                 | [[movies/The Dark Knight Rises (2012)\|The Dark Knight Rises (2012)]] | 22.06.2024 | 2 godziny i 44 minuty | ★★★★★  |
-| ![](https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg)                                 | [[movies/The Dark Knight (2008)\|The Dark Knight (2008)]]             | 21.06.2024 | 2 godziny i 32 minuty | ★★★★★  |
-| ![](https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg) | [[movies/Batman Begins (2005)\|Batman Begins (2005)]]                 | 19.06.2024 | 2 godziny i 20 minut  | ★★★★★  |
+| Image                                                                                                   | Title                                                    | Watched    | Duration            | Rating |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------- | ------------------- | ------ |
+| ![](https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg) | [[movies/Jurassic Park (1993)\|Jurassic Park (1993)]] | 23.07.2024 | 2 godziny i 7 minut | \-     |
 
 { .block-language-dataview}
 
-| Image                                                                                                                                   | Title                                                      | Watched    | Duration | Rating |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | -------- | ------ |
-| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[series/The Boys (2019–)\|The Boys (2019–)]]           | 15.07.2024 | 45 minut | ★★★★☆  |
-| ![](https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_SX300.jpg) | [[series/Westworld (2016–2022)\|Westworld (2016–2022)]] | 12.07.2024 | 62       | ★★★★☆  |
+| Image                                                                                                                                   | Title                                            | Watched    | Duration | Rating |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------- | -------- | ------ |
+| ![](https://m.media-amazon.com/images/M/MV5BODI5NDUxNjAtZTIxYS00N2M1LWI5NmItODBmM2QyNTU4ZDY4XkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg) | [[series/The Boys (2019–)\|The Boys (2019–)]] | 17.07.2024 | 45 minut | ★★★★☆  |
 
 { .block-language-dataview}

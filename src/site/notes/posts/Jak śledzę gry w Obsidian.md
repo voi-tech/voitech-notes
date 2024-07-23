@@ -45,11 +45,13 @@ Gry są następnie podsumowane w swojej kategorii, czyli w notatce *Games*. Doda
 
 **Tak wygląda tabela:**
 
-| File                                      | Played     | Playtime   | Price     | Per hour |
-| ----------------------------------------- | ---------- | ---------- | --------- | -------- |
-| [[games/Diablo IV\|Diablo IV]]         | 6.06.2024  | 625 godzin | 349,00 zł | 0.56     |
-| [[games/Path of Exile\|Path of Exile]] | 21.04.2024 | 300 godzin | 210,00 zł | 0.7      |
-| [[games/Elden Ring\|Elden Ring]]       | 7.07.2024  | 20 godzin  | 197,34 zł | 9.87     |
+| File                                        | Played     | Playtime   | Price     | Per hour |
+| ------------------------------------------- | ---------- | ---------- | --------- | -------- |
+| [[games/Diablo IV\|Diablo IV]]           | 6.06.2024  | 625 godzin | 349,00 zł | 0.56     |
+| [[games/Path of Exile\|Path of Exile]]   | 21.04.2024 | 300 godzin | 210,00 zł | 0.7      |
+| [[games/Cyberpunk 2077\|Cyberpunk 2077]] | 23.07.2024 | 150 godzin | 203,50 zł | 1.36     |
+| [[games/No Man's Sky\|No Man's Sky]]     | 20.07.2024 | 20 godzin  | 109,50 zł | 5.47     |
+| [[games/Elden Ring\|Elden Ring]]         | 7.07.2024  | 20 godzin  | 197,34 zł | 9.87     |
 
 { .block-language-dataview}
 
