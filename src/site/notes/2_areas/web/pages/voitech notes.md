@@ -14,6 +14,11 @@ Zarządzanie wiedzą osobistą, Obsidian, Apple, nauka i technologia, gry, filmy
 
 ## Ostatnie wpisy
 
+- [[2_areas/web/posts/Przetestowałem Obsidian Publish, żebyście wy nie musieli\|Przetestowałem Obsidian Publish, żebyście wy nie musieli]]
+- [[2_areas/web/posts/W złotej klatce Apple\|W złotej klatce Apple]]
+- [[2_areas/web/posts/macOS Sequoia\|macOS Sequoia]]
+- [[2_areas/web/posts/iOS 18\|iOS 18]]
+- [[2_areas/web/posts/WWDC24 Keynote\|WWDC24 Keynote]]
 
 { .block-language-dataview}
 <link rel="me" href="https://social.lol/@voitech"/>
