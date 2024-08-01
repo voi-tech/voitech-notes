@@ -3,14 +3,43 @@
 ---
 
 
-**[CliftonStrenghts](https://pl.wikipedia.org/wiki/Test_Gallupa) (talenty Gallupa):**
+## [CliftonStrenghts](https://pl.wikipedia.org/wiki/Test_Gallupa) (talenty Gallupa):
 
-1. Learner - uczenie się
-2. Analytical - analityk
-3. Harmony - zgodność
-4. Discipline - dyscyplina
-5. Input - zbieranie
+> [!success|noicon] Learner - uczenie się
+> Mam wielką chęć do nauki i ciągłego doskonalenia się. Ekscytuje mnie sam proces uczenia się, a nie jego wynik.
 
-[INTJ](https://www.16personalities.com/pl/osobowosc-intj)
+> [!success|noicon] Analytical - analityk
+> Szukam powodów i przyczyn. Potrafię myśleć o wszystkich czynnikach, które mogą mieć wpływ na daną sytuację.
 
-[flegmatyk](https://pl.wikipedia.org/wiki/Flegmatyk)
+> [!note|noicon] Harmony - zgodność
+> Dążę do konsensusu. Nie lubię konfliktów, raczej szukam obszarów porozumienia.
+
+> [!example|noicon] Discipline - dyscyplina
+> Lubię rutynę i strukturę. Mój świat najlepiej opisuje porządek, który tworzę.
+
+> [!success|noicon] Input - zbieranie
+> Mam potrzebę gromadzenia i archiwizowania. Mogę gromadzić informacje, pomysły, przedmioty, a nawet relacje.
+
+### Cechy
+
+> [!example|noicon] Wykonywania
+> Pomagają w realizowaniu zadań.
+
+> [!help|noicon] Wpływania
+> Pomagają podjąć działanie, wyrazić myśli i upewnić się, że inni zostaną wysłuchani.
+
+> [!note|noicon] Budowania relacji
+> Pomagają budować silne relacje, które utrzymują zespół w całości.
+
+> [!success|noicon] Myślenia strategicznego
+> Pomagają przyswajać i analizować informacje, które prowadzą do podejmowania lepszych decyzji.
+
+## MBTI - 16 personalities
+
+> [!example|noicon] INTJ - Architect
+> Architekci są pomysłowymi i strategicznymi myślicielami, z planem na wszystko.
+
+- **I** - Introverted
+- **N** - Intuitive
+- **T** - Thinking
+- **J** - Judging

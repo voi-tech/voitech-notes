@@ -3,7 +3,5 @@
 ---
 
 
-Znajdziesz mnie też tutaj:
-
 - **[mastodon](https://social.lol/@voitech)** - jedyny profil w mediach społecznościowych
 - **[youtube](https://www.youtube.com/@voitech_)** - mój kanał na YT
