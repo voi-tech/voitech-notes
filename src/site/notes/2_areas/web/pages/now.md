@@ -7,9 +7,9 @@
 
 | Image                                                                           | Title                                                   | Played     | Playtime   | Rating |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ---------- | ------ |
+| ![](https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg) | [[3_resources/games/Path of Exile\|Path of Exile]]   | 31/07/2024 | 300 godzin | ★★★☆☆  |
 | ![](https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg) | [[3_resources/games/Cyberpunk 2077\|Cyberpunk 2077]] | 23/07/2024 | 150 godzin | ★★★★★  |
-| ![](https://media.rawg.io/media/games/174/1743b3dd185bda4a7be349347d4064df.jpg) | [[3_resources/games/No Man's Sky\|No Man's Sky]]     | 20/07/2024 | 20 godzin  | ★★★★★  |
-| ![](https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg) | [[3_resources/games/Elden Ring\|Elden Ring]]         | 07/07/2024 | 20 godzin  | ★★★★★  |
+| ![](https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg) | [[3_resources/games/Diablo IV\|Diablo IV]]           | 06/06/2024 | 625 godzin | ★★★☆☆  |
 
 { .block-language-dataview}
 
