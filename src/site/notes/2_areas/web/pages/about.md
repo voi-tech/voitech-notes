@@ -3,7 +3,7 @@
 ---
 
 
-## [CliftonStrenghts](https://pl.wikipedia.org/wiki/Test_Gallupa) (talenty Gallupa):
+## CliftonStrenghts (talenty Gallupa)
 
 > [!success|noicon] Learner - uczenie się
 > Mam wielką chęć do nauki i ciągłego doskonalenia się. Ekscytuje mnie sam proces uczenia się, a nie jego wynik.
